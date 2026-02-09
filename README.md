@@ -26,6 +26,7 @@ If you use this dataset or code, please cite the following abstract:
 
 > Ürker, E., & Boleda, G. (2026). *On the Prevalence of Different Types of Lexical Semantic Changes: Preliminary Findings*. In **Proceedings of EvoLang 2026**.
 
+```bibtex
 @inproceedings{urker2026semanticchange,
   author    = {Ürker, Ecesu and Boleda, Gemma},
   title     = {On the Prevalence of Different Types of Lexical Semantic Changes: Preliminary Findings},
@@ -33,4 +34,4 @@ If you use this dataset or code, please cite the following abstract:
   year      = {2026},
   note      = {To appear}
 }
-
+```
