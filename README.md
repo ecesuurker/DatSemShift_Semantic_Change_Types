@@ -1,0 +1,1 @@
+This repository includes the code that scrapes data from the <a href="url">https://datsemshift.ru</a> website, the code that filters out only certain types of shifts and samples data from the Database. The output files from the scraping and filtering are also included in the repository. 
